@@ -1,0 +1,51 @@
+body{
+  text-align: center;
+}
+#survey-form{
+  background color: Green;
+  color: black;
+  width: 900px;
+  margin: 0 auto;}
+.row-tab{
+  display:block;
+  padding-top: 20px;
+}
+
+.label-anime{
+  display:inline-block;
+  width: 40%;
+  text-align: right;
+}
+.input-anime{
+  display:inline-block;
+  text-align: left;
+  }
+.select-input{
+  display:inline-block;
+  text-align:left;
+}
+.label-select{
+  
+}
+labels-radio{
+  display:inline-block;
+  vertical-align: top;
+}
+
+.input-radio {
+  display:inline-block;
+}
+
+.checkbox-labels{
+  display:inline-block;
+  vertical-align: top;
+}
+
+checkbox-input{
+  display: inline-block;
+  }
+
+.button{
+  padding:10px;
+}
+
