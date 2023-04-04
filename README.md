@@ -2,6 +2,10 @@
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/14gilli/pen/XWarKev](https://codepen.io/14gilli/pen/XWarKev).
 
+<p>
+<img src="https://i.imgur.com/GsYV7Tl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
 Build a Survey Form
 
 Objective: Build an app that is functionally similar to https://survey-form.freecodecamp.rocks
